@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.block_main{
+    margin: 100px 300px 0 300px;
+}
+
+#List_fisrt{
+    display: flex;
+}
+                                .pd{border-radius: 5px; padding:10px 30px; font-size: 30px; color: #c23564; opacity: 0.6;}
+                                .pd:hover {background-color: #f9e5eb; box-shadow: 5px 10px 8px rgb(213 213 213); color: #000; opacity: 1; cursor: pointer;}
+
+p{  line-height: 30px;
+    word-spacing: 6px;
+    font-size: 20px;
+}
